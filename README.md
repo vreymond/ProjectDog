@@ -1,4 +1,4 @@
-# Multiple micro-services with dogs
+# Multiple micro-services connection using Socket.io
 
 ## Description
 
