@@ -1,0 +1,22 @@
+{
+	"db": [
+		{
+			"type": "family",
+			"_id": "Famous",
+			"nodes": [
+				{
+					"id": "Idefix"
+				},
+				{
+					"id": "ScoobyDoo"
+				}
+			],
+			"links": [
+				{
+					"source": "Idefix",
+					"target": "ScoobyDoo"
+				}
+			]
+		}
+	]
+}
